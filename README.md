@@ -1,6 +1,7 @@
 # Hi 👋, I'm Hamada Zaid
 
-![HTML5](https://magiccopy.xyz/assets/images/hadder.gif)
+![Alt text](https://magiccopy.xyz/assets/images/hadder.gif)
+
 # 💫 About Me:
 
 🧑‍💻 I'm a Back-End deveoper<br>🔭 I’m currently working on Freelancer Work Tracker website<br>👯‍♂️ I'm always looking to collaborate on interesting projects that challenge me and help me grow as a developer.<br>🌱 I’m currently learning Nest.js<br>💬 Ask me about Node.js <br>
