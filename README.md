@@ -1,4 +1,4 @@
-# 🧑‍💻 My Name Is Hamada Zaid
+# Hi 👋, I'm Hamada Zaid
 
 # 💫 About Me:
 
