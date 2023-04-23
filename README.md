@@ -1,5 +1,8 @@
 # Hi 👋, I'm Hamada Zaid
 
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<br>
+
 # 💫 About Me:
 
 🧑‍💻 I'm a Back-End deveoper<br>🔭 I’m currently working on Freelancer Work Tracker website<br>👯‍♂️ I'm always looking to collaborate on interesting projects that challenge me and help me grow as a developer.<br>🌱 I’m currently learning Nest.js<br>💬 Ask me about Node.js <br>
