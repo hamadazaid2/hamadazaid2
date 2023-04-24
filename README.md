@@ -32,8 +32,6 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=hamadazaid2&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-
 
 ---
 
