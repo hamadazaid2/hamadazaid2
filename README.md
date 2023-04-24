@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-🧑‍💻 I'm a Node.js deveoper<br>📖 I'm studying Software Development at IUG <br>🔭 I’m currently working on Freelancer Work Tracker website<br>👯‍♂️ I'm always looking to collaborate on interesting projects that challenge me and help me grow as a developer.<br>🌱 I’m currently learning Nest.js<br>💬 Ask me about Node.js <br>
+🧑‍💻 I'm a Node.js deveoper<br>📖 I'm currently studying Software Development at IUG <br>🔭 I’m currently working on Freelancer Work Tracker website<br>👯‍♂️ I'm always looking to collaborate on interesting projects that challenge me and help me grow as a developer.<br>🌱 I’m currently learning Nest.js<br>💬 Ask me about Node.js <br>
 
 ## 🌐 Socials:
 
