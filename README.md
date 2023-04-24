@@ -34,7 +34,7 @@
 
 ### 😂 Random Dev Meme
 
-<img src="https://rm.up.railway.app/" width="512px"/>
+// <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 
