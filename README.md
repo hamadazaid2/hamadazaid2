@@ -3,7 +3,7 @@
 <img src="https://www.shutterstock.com/shutterstock/videos/1106716007/thumb/7.jpg?ip=x480" />
 
 # 💫 About Me:
-💻 I'm a passionate <b>Node.js developer</b> with a strong interest in building efficient and scalable backend systems.<br>📖 I'm a Software Development Teaching Assistant at IUG.<br>🔭 Currently working at Bitlab Co, contributing to projects in the fintech, healthcare, and entertainment sectors.<br>👯‍♂️ Always open to collaborating on meaningful projects that push my skills and allow me to learn from others.<br>💬 Feel free to reach out if you want to chat about Node.js, backend architecture, or dev life in general!<br>
+💻 I'm a passionate <b>Node.js developer</b> with a strong interest in building efficient and scalable backend systems.<br>📖 I'm a <b>Software Development Teaching Assistant</b> at <b>IUG</b>.<br>🔭 Currently working at <b>Bitlab Co</b>, contributing to projects in the <b>fintech, healthcare, and entertainment sectors</b>.<br>👯‍♂️ Always open to <b>collaborating on meaningful projects</b> that push my skills and allow me to learn from others.<br>💬 Feel free to reach out if you want to chat about <b>Node.js</b>, backend architecture, or dev life in general!<br>
 
 ## 🌐 Socials:
 
