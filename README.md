@@ -3,7 +3,7 @@
 <img src="https://www.shutterstock.com/shutterstock/videos/1106716007/thumb/7.jpg?ip=x480" />
 
 # 💫 About Me:
-💻 I'm a Node.js deveoper<br>📖 I am a Software Development student at IUG <br>🔭 I’m currently working at Dash ICT. company<br>👯‍♂️ I'm always looking to collaborate on interesting projects that challenge me and help me grow as a developer.<br>💬 Ask me about Node.js <br>
+💻 I'm a Node.js deveoper<br>📖 I am a Software Development Teaching Assistant at IUG <br>🔭 I’m currently working at Bitlab Tech company.<br>👯‍♂️ I'm always looking to collaborate on interesting projects that challenge me and help me grow as a developer.<br>💬 Ask me about Node.js <br>
 
 ## 🌐 Socials:
 
