@@ -3,7 +3,7 @@
 <img src="https://www.shutterstock.com/shutterstock/videos/1106716007/thumb/7.jpg?ip=x480" />
 
 # 💫 About Me:
-💻 I'm a Node.js deveoper<br>📖 I am a Software Development Teaching Assistant at IUG <br>🔭 I’m currently working at Bitlab Tech company.<br>👯‍♂️ I'm always looking to collaborate on interesting projects that challenge me and help me grow as a developer.<br>💬 Ask me about Node.js <br>
+💻 I'm a passionate Node.js developer with a strong interest in building efficient and scalable backend systems.<br>📖 I'm a Software Development Teaching Assistant at IUG.<br>🔭 Currently working at Bitlab Co, contributing to projects in the fintech, healthcare, and entertainment sectors.<br>👯‍♂️ Always open to collaborating on meaningful projects that push my skills and allow me to learn from others.<br>💬 Feel free to reach out if you want to chat about Node.js, backend architecture, or dev life in general!<br>
 
 ## 🌐 Socials:
 
